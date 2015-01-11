@@ -1,6 +1,7 @@
 <?php
 
 	// This is Index2!!!
+	// GAP-IDEAPAD NA!!
 
 	$page_title = "Read Products";
 	include_once "header.php";
